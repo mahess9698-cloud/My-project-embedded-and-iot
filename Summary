@@ -1,0 +1,4 @@
+This project is an IoT-based Temperature and Humidity Monitoring System.
+It uses an ESP8266 (NodeMCU) microcontroller and a DHT11 sensor to measure temperature and humidity values from the environment.
+The ESP8266 connects to a WiFi network and sends the collected sensor data to a cloud platform (ThingSpeak). Users can view the live temperature and humidity readings from anywhere using a mobile phone or computer through the internet.
+This project combines Embedded Systems (sensor interfacing and microcontroller programming) and IoT technology (WiFi communication and cloud data monitoring). It is useful for applications like weather monitoring, smart homes, and industrial environment monitoring.
